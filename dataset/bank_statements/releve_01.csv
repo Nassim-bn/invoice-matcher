@@ -1,0 +1,42 @@
+date,amount,currency,vendor,source
+2022-01-15,13.07,USD,Sonic America's Drive-In,1148-receipt.jpg.json
+2017-08-21,50.8,USD,Finnigan's Way Check 822819,1182-receipt.jpg.json
+2017-08-13,26.38,USD,Argonaut Diner2000,1035-receipt.jpg.json
+2016-04-10,42.9,USD,Café Eugene,1068-receipt.jpg.json
+2019-07-18,77.49,USD,"KICKIN KAJUN KAPOLEI, Ka Makana Aliʻi 91-5431 Kapolei Parkway, Suite 426 Kapolei, HI 96707",1049-receipt.jpg.json
+2018-10-03,26.15,CAD,"16725 Stony Plain Rd, Edmonton AB T5P 4A9",1100-receipt.jpg.json
+2019-05-21,9.59,USD,7635 KIMEIKA,1044-receipt.jpg.json
+2017-08-09,26.96,MYR,HOLLYWOOD CAFE & SPORTS BAR,1050-receipt.jpg.json
+2019-03-24,69.79,USD,"NAANCHING, 103 Montgomery St, Jersey City, NJ 07302",1077-receipt.jpg.json
+2015-07-03,7.56,USD,Bar Louie Huntsville,1175-receipt.jpg.json
+2019-07-03,4.99,USD,"Wendy's Restaurant, 401 Bergam St, Harrison, NJ 07029",1118-receipt.jpg.json
+2019-05-19,10.00,USD,JALISCO,1183-receipt.jpg.json
+2014-08-30,12.03,USD,,1180-receipt.jpg.json
+2018-01-27,184.47,USD,"736 Ocean Drive, Miami Beach, FL 33139",1112-receipt.jpg.json
+2018-06-24,38.23,USD,POPEYE'S,1093-receipt.jpg.json
+2013-03-22,193.35,USD,"null, null",1184-receipt.jpg.json
+2019-02-22,173.07,USD,"KOBE JAPANESE STEAK, 69838 HIGHWAY 111 RANCHO MIRAGE, CA 92270-2837",1117-receipt.jpg.json
+2019-08-06,34.12,USD,Villaggio Grille,1116-receipt.jpg.json
+2018-06-24,22.03,USD,"YUM'S RESTAURANT, 1234 Main Street, Anytown, USA",1045-receipt.jpg.json
+2012-05-21,128.33,USD,Nonna,1199-receipt.jpg.json
+2017-12-08,94.78,USD,"151 E 50th St, New York, NY 10022",1030-receipt.jpg.json
+2017-08-25,154.78,USD,STK Miami Beach,1198-receipt.jpg.json
+2016-10-06,333.72,USD,Juniper & Ivy,1162-receipt.jpg.json
+2023-09-17,142.01,USD,NATIONAL ACCOUNTS,1062-receipt.jpg.json
+2018-01-25,56.5,USD,"1955 Broadway, Santa Monica, CA 90404",1054-receipt.jpg.json
+2016-12-19,13.05,USD,8105 MADISON AVE,1039-receipt.jpg.json
+2019-12-03,55.95,USD,COMMANDER'S PALACE,1111-receipt.jpg.json
+2019-03-17,38.86,USD,"17861 BISCAYNE BLVD Aventura, FL 33160",1046-receipt.jpg.json
+2017-07-05,27.08,USD,"MIGUELS MEXICAN RESTAURANT, 187 MEGAN F TAMPA, FL",1189-receipt.jpg.json
+2013-06-01,21.69,USD,"OHANA HAWAIIAN BBQ, 4469 SLAUSON AVE
+Maywood, CA 90270",1072-receipt.jpg.json
+2017-12-29,64.52,USD,"25 West San Fernando St. San Jose, CA 95113",1099-receipt.jpg.json
+2019-02-09,34.21,USD,"DOUGLAS BURGERS, 12345 S 13th St
+White Center",1028-receipt.jpg.json
+2017-06-05,41.45,USD,HEDLEYS,1176-receipt.jpg.json
+2014-12-21,25.94,USD,CASA CHAN RESTAURANT,1138-receipt.jpg.json
+2015-08-02,17.00,EUR,la Source,1114-receipt.jpg.json
+null,88.62,USD,Yauatcha,1141-receipt.jpg.json
+2019-11-02,55.39,USD,FAIRVIEW,1042-receipt.jpg.json
+2022-12-26,65.14,USD,"MIGUELS MEXICAN, 3035 W. KENNEDY BLVD, TAMPA, FL.",1145-receipt.jpg.json
+2017-07-06,617.0,INR,SS PARADISE,1139-receipt.jpg.json

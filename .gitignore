@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+invoices_extraction.csv
+matching_results.csv
+archive/
+*.pyc
+.DS_Store
